@@ -7,7 +7,8 @@ diaries = [
     DiarySample(),
     YutoDiary(),
     UchidaDiary(),
-]
+    okazakiDiary(),
+           ]
 
 for d in diaries:
     print("---------------------------------")
