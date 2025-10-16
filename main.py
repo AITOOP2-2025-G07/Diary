@@ -1,6 +1,7 @@
 from diaries.DiarySample import DiarySample
 from diaries.YutoDiary import YutoDiary
 from diaries.UchidaDiary import UchidaDiary
+from diaries.okazakiDiary import okazakiDiary
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
     DiarySample(),
