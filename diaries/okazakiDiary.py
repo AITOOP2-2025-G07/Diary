@@ -6,4 +6,8 @@ class okazakiDiary(AbstractDiary):
     def get_summary(self):
         return "むずい"
     def get_author(self):
+<<<<<<< Updated upstream
         return "okazaki"
+=======
+        return "okazaki" 
+>>>>>>> Stashed changes
