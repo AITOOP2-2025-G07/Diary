@@ -10,8 +10,8 @@ diaries = [
     YutoDiary(),
     UchidaDiary(),
     okazakiDiary(),
-    taniokaDiary()
-]
+    taniokaDiary(),
+    ]
 
 for d in diaries:
     print("---------------------------------")
